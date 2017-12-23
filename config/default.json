@@ -1,0 +1,12 @@
+{
+  "host": "http://localhost:",
+  "apis": {
+    "document": {
+      "host": "localhost",
+      "port": 4000,
+    },
+    "user": {
+
+    }
+  }
+}
